@@ -1,0 +1,28 @@
+---
+title: "Modelos Lineares"
+author: "Prof. Dr. Juliano Bortolini"
+date: ""
+output: html_document
+---
+
+*Bacharelado em Estatístida - UFMT*
+
+*Período letivo: 2024/1*
+
+
+### Avisos:
+
+- Monitor: Wellington
+- [Whatsapp da disciplina]()
+- Última atualização do site: `r format(Sys.time(), "%d-%m-%Y %H:%M:%S")`.
+
+
+### Ementa:
+
+
+### Livro texto:
+
+
+
+### Livro complementar:
+
