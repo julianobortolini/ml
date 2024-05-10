@@ -12,17 +12,39 @@ output: html_document
 
 ### Avisos:
 
+- Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
 - Monitor: Wellington
 - [Whatsapp da disciplina]()
-- Última atualização do site: `r format(Sys.time(), "%d-%m-%Y %H:%M:%S")`.
+
 
 
 ### Ementa:
 
+Álgebra de matrizes. Inversas generalizadas e soluções de sistemas. Vetores e matrizes aleatórios. Distribuição de formas lineares e quadráticas de vetores aleatórios. Modelos lineares: Caracterização, estimação por mínimos quadrados, sistema de equações normais. Modelos lineares com restrições nas soluções e nos parâmetros. Tipos de soma de quadrados.
 
 ### Livro texto:
 
+RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
+### Avaliação:
 
 
-### Livro complementar:
+*Os critérios de avaliação seguem a Resolução CONSEPE 63/2018.*
+
+
+3 avaliações (com pontuação de 0 a 10):
+
+  - A1: álgebra de matrizes, inversas generalizadas e soluções de sistemas lineares.
+  - A2: vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios.
+  - A3: modelos lineares e seus pressupostos, estimação por mínimos quadrados, sistemas de equações normais, modelos lineares com restrições nas soluções e parâmetros e os diferentes tipos de soma de quadrados.
+  
+O aluno que tiver a nota final, definida pela média aritmética das notas das 3 avaliações, maior ou igual a 5 estará aprovado. **Não há prova final.**
+
+Faltas superiores a 16 horas (equivalente a 4 aulas) implicam em reprovação por falta.
+
+Solicitações de segunda chamada para as provas serão avaliadas conforme o disposto no art. 80 da Res. Consepe nº 14/1999 e art. 8º da Res. Consepe nº 27/1999. Mais informações em: [https://ufmt.br/unidade/estudante/graduacao/pagina/requerimentos/188](https://ufmt.br/unidade/estudante/graduacao/pagina/requerimentos/188)
+
+
+
+
 
