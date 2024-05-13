@@ -14,7 +14,7 @@ output: html_document
 
 - Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
 - Monitores: Aline e Wellington
-- [Whatsapp da disciplina]()
+- [Whatsapp da disciplina](https://chat.whatsapp.com/GgdG61qLafrJJxNarlwvOF)
 
 
 

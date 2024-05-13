@@ -1,11 +1,16 @@
 ---
-title: ""
+title: "Modelos Lineares"
+author: "Prof. Dr. Juliano Bortolini"
 output: html_document
 ---
 
-# [Modelos lineares](../index.html)
+*Bacharelado em Estatística - UFMT*
+
+*Período letivo: 2024/1*
 
 Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+
+[**Página inicial**](../index.html)
 
 **Aula 1: 13-5-2024**
 
