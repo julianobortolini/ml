@@ -5,7 +5,7 @@ date: ""
 output: html_document
 ---
 
-*Bacharelado em Estatístida - UFMT*
+*Bacharelado em Estatística - UFMT*
 
 *Período letivo: 2024/1*
 
@@ -13,7 +13,7 @@ output: html_document
 ### Avisos:
 
 - Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
-- Monitor: Wellington
+- Monitores: Aline e Wellington
 - [Whatsapp da disciplina]()
 
 
@@ -22,9 +22,11 @@ output: html_document
 
 Álgebra de matrizes. Inversas generalizadas e soluções de sistemas. Vetores e matrizes aleatórios. Distribuição de formas lineares e quadráticas de vetores aleatórios. Modelos lineares: Caracterização, estimação por mínimos quadrados, sistema de equações normais. Modelos lineares com restrições nas soluções e nos parâmetros. Tipos de soma de quadrados.
 
-### Livro texto:
 
-RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+### Notas de aula:
+
+- [**Aula 1: 13-5-2024**](aulas/aula1.html)
+
 
 ### Avaliação:
 
@@ -43,6 +45,11 @@ O aluno que tiver a nota final, definida pela média aritmética das notas das 3
 Faltas superiores a 16 horas (equivalente a 4 aulas) implicam em reprovação por falta.
 
 Solicitações de segunda chamada para as provas serão avaliadas conforme o disposto no art. 80 da Res. Consepe nº 14/1999 e art. 8º da Res. Consepe nº 27/1999. Clique [aqui](https://ufmt.br/unidade/estudante/graduacao/pagina/requerimentos/188) para mais informações sobre segunda chamada.
+
+### Livro texto:
+
+RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
 
 
 ----------

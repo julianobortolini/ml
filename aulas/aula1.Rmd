@@ -1,0 +1,54 @@
+---
+title: ""
+output: html_document
+---
+
+# [Modelos lineares](../index.html)
+
+Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+
+**Aula 1: 13-5-2024**
+
+- Apresentação da disciplina: avaliações (2 provas), conteúdo programático, livro texto, monitoria, site da disciplina e whatsapp. 
+- Disciplina dividida em duas partes: 1. teoria de matrizes e 2. teoria dos modelos lineares.
+- Por que estudar modelos lineares?
+- Responder para a próxima aula:
+  - O que é uma matriz, vetor e escalar?
+  - Como denotar/representar uma matriz, vetor e escalar?
+  - O que é igualdade de matrizes?
+  - O que é uma matriz transposta?
+  - O que é uma matriz simétrica?
+  - O que é uma matriz diagonal?
+  - O que é uma matriz identidade?
+  - O que é uma matriz triangular superior?
+  - O que é uma matriz triangular inferior?
+  - O que é um vetor de 1's?
+  - O que é uma matriz de 1's?
+  - O que é um vetor de 0's?
+  - O que é uma matriz de 0's?
+  - Como é realizada a soma de duas matrizes?
+  - Como é realizada a diferença de duas matrizes?
+  - Como é realizada a multiplicação de um escalar por uma matriz?
+  - Como é realizada a multiplicação de duas matrizes?
+  - Como é realizada a multiplicação de dois vetores?
+  - Como é realizada a multiplicação de uma matriz por um vetor?
+  - O que é forma quadrática?
+  - O que é forma bilinear?
+  
+Sugestão de leitura: RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
+
+----------
+<div style="text-align: center;">
+
+[@profjulianobortolini](https://instagram.com/profjulianobortolini) \  \  \ [www.julianobortolini.com.br](http://www.julianobortolini.com.br) \  \  \ [linkedin](https://linkedin.com/in/julianobortolini) \  \  \ [github](https://github.com/julianobortolini) \  \  \  [lattes](http://lattes.cnpq.br/6210909768845403)
+
+</div>
+
+
+
+
+
+  
+  
+  
