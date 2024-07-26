@@ -1,0 +1,37 @@
+---
+title: "Modelos Lineares"
+author: "Prof. Dr. Juliano Bortolini"
+output: html_document
+---
+
+*Bacharelado em Estatística - UFMT*
+
+*Período letivo: 2024/1*
+
+Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+
+[**Página inicial**](../index.html)
+
+**Aula 2: 8-7-2024**
+
+- Capítulo 2 do livro do Rencher.
+- Importância da teoria de matrizes em modelos lineares.
+- Definições: matriz, vetor e escalar, igualdade de matrizes, matrizes transposta, simétrica, diagonal, identidade, triangular superior e  inferior, vetor e matriz de 1's e vetor e matriz de 0's. Operações com matrizes: soma, diferença, multiplicação por escalar, multiplicação de matrizes, multiplicação de vetores e multiplicação de matriz por vetor.
+  
+Sugestão de leitura: RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
+
+----------
+<div style="text-align: center;">
+
+[@profjulianobortolini](https://instagram.com/profjulianobortolini) \  \  \ [www.julianobortolini.com.br](http://www.julianobortolini.com.br) \  \  \ [linkedin](https://linkedin.com/in/julianobortolini) \  \  \ [github](https://github.com/julianobortolini) \  \  \  [lattes](http://lattes.cnpq.br/6210909768845403)
+
+</div>
+
+
+
+
+
+  
+  
+  

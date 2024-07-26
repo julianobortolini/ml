@@ -13,7 +13,7 @@ output: html_document
 ### Avisos:
 
 - Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
-- Monitores: Aline e Wellington
+- Monitores: Aline e Marcos
 - [Whatsapp da disciplina](https://chat.whatsapp.com/GgdG61qLafrJJxNarlwvOF)
 
 
@@ -25,8 +25,13 @@ output: html_document
 
 ### Notas de aula:
 
-- [**Aula 1: 13-5-2024**](aulas/aula1.html)
+- [Aula 1](aulas/aula1.html): apresentação da disciplina e ideias gerais sobre teoria de matrizes e modelos lineares.
 
+- [Aula 2](aulas/aula2.html): definições de matrizes.
+
+- [Aula 3](aulas/aula3.html): teoremas sobre matrizes e vetores. Operações entre matrizes e vetores.
+
+- Lista 1: capítulo 2 do livro do Rencher.
 
 ### Avaliação:
 
