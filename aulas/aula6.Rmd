@@ -17,7 +17,7 @@ output: html_document
 - Capítulo 2 do livro do Rencher.
 - Revisão da aula passada: inversa generalizada e sistemas de equações.
 - Inversa generalizada e sistemas de equações.
-- Determinante de uma matriz (tarefa para casa).
+- Determinante de uma matriz (tarefa para casa). Sugestão: [Determinantes](https://www.ime.unicamp.br/~marcia/AlgebraLinear/determinantes.html).
 - Vetores e matrizes ortogonais.
 - Traço de uma matriz.
 - Autovalor e autovetor.
