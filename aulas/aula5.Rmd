@@ -1,0 +1,45 @@
+---
+title: "Modelos Lineares"
+author: "Prof. Dr. Juliano Bortolini"
+output: html_document
+---
+
+*Bacharelado em Estatística - UFMT*
+
+*Período letivo: 2024/1*
+
+Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+
+[**Página inicial**](../index.html)
+
+**Aula 5: 5-8-2024**
+
+- Capítulo 2 do livro do Rencher.
+- Revisão da aula passada: Formas quadráticas e bilineares. Vetores linearmente independentes e dependentes. Posto (ou Rank) de uma matriz. Matriz inversa. Matriz positiva definida e semidefinida.
+- Exemplo de forma quadrática.
+- Teoremas sobre matrizes positivas definidas e semidefinidas.
+- Sistema de equações.
+- Teoremas sobre sistemas de equações.
+- Inversa generalizada (i.g.): definição e propriedades.
+- Teoremas sobre i.g. e como obter.
+- I.g. e sistemas de equações.
+- Lista: resolver os exercícios do cap. 2.
+- Prova daqui 2 aulas.
+
+Sugestão de leitura: RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
+
+----------
+<div style="text-align: center;">
+
+[@profjulianobortolini](https://instagram.com/profjulianobortolini) \  \  \ [www.julianobortolini.com.br](http://www.julianobortolini.com.br) \  \  \ [linkedin](https://linkedin.com/in/julianobortolini) \  \  \ [github](https://github.com/julianobortolini) \  \  \  [lattes](http://lattes.cnpq.br/6210909768845403)
+
+</div>
+
+
+
+
+
+  
+  
+  

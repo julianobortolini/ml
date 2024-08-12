@@ -1,0 +1,44 @@
+---
+title: "Modelos Lineares"
+author: "Prof. Dr. Juliano Bortolini"
+output: html_document
+---
+
+*Bacharelado em Estatística - UFMT*
+
+*Período letivo: 2024/1*
+
+Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+
+[**Página inicial**](../index.html)
+
+**Aula 6: 12-8-2024**
+
+- Capítulo 2 do livro do Rencher.
+- Revisão da aula passada: inversa generalizada e sistemas de equações.
+- Inversa generalizada e sistemas de equações.
+- Determinante de uma matriz (tarefa para casa).
+- Vetores e matrizes ortogonais.
+- Traço de uma matriz.
+- Autovalor e autovetor.
+- Matriz idempotente.
+- Cálculo com funções de vetores e matrizes.
+- Prova na próxima aula.
+
+Sugestão de leitura: RENCHER, Alvin C.; SCHAALJE, G. Bruce. **Linear models in statistics.** John Wiley & Sons. 2008.
+
+
+----------
+<div style="text-align: center;">
+
+[@profjulianobortolini](https://instagram.com/profjulianobortolini) \  \  \ [www.julianobortolini.com.br](http://www.julianobortolini.com.br) \  \  \ [linkedin](https://linkedin.com/in/julianobortolini) \  \  \ [github](https://github.com/julianobortolini) \  \  \  [lattes](http://lattes.cnpq.br/6210909768845403)
+
+</div>
+
+
+
+
+
+  
+  
+  
