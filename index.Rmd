@@ -11,11 +11,10 @@ output: html_document
 
 
 ### Avisos:
-
-- Última atualização do site às **`r format(Sys.time(), "%H:%M")`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
+- Última atualização do site às **`r format(Sys.time(), "%H:%M", tz='America/Cuiaba')`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
 - Monitores: Aline e Marcos
 - [Whatsapp da disciplina](https://chat.whatsapp.com/GgdG61qLafrJJxNarlwvOF)
-
+- Prova 1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 19/8/2024. **A prova será remota**.
 
 
 ### Ementa:
@@ -39,7 +38,7 @@ output: html_document
 
 - [Aula 6](aulas/aula6.html): inversa generalizada e sistemas de equações, vetores e matrizes ortogonais, traço de uma matriz, autovalor e autovetor, matriz idempotente e cálculo com funções de vetores e matrizes.
 
-- Aula 7: Avaliação A1: álgebra de matrizes, inversas generalizadas e soluções de sistemas lineares.
+- Aula 7: Avaliação A1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Conteúdo da prova: álgebra de matrizes, inversas generalizadas e soluções de sistemas lineares.
 
 - Aula 8: vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios.
 
