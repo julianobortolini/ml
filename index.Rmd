@@ -40,7 +40,14 @@ output: html_document
 
 - Aula 7: Avaliação A1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Conteúdo da prova: álgebra de matrizes, inversas generalizadas e soluções de sistemas lineares.
 
-- Aula 8: vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios.
+- Aula 8: refazer a avaliação A1 com data de entrega 2/9/2024.
+
+- Aula 9: vetores e matrizes aleatórios (capítulo 3 do livro do Rencher) e distribuição normal uni e multivariada (capítulo 4).
+
+- Aula 10: exercícios sobre vetores e matrizes aleatórios e distribuição normal multivariada. Exercícios dos capítulos 3 e 4 do livro do Rencher. 
+
+- Aula 11: distribuição de formas lineares e quadráticas de vetores aleatórios. Capítulo 5 do livro do Rencher.
+
 
 
 ### Avaliação:
