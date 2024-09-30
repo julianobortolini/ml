@@ -15,7 +15,7 @@ output: html_document
 - Monitores: Aline e Marcos
 - [Whatsapp da disciplina](https://chat.whatsapp.com/GgdG61qLafrJJxNarlwvOF)
 - Prova 1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 19/8/2024. **A prova será remota**.
-
+- Prova 2 estará disponível em 7/10/2024 no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 7/10/2024 até as 23h. **A prova será remota**.
 
 ### Ementa:
 
@@ -48,6 +48,11 @@ output: html_document
 
 - Aula 11: distribuição de formas lineares e quadráticas de vetores aleatórios. Capítulo 5 do livro do Rencher.
 
+- [Tarefa](tarefap2.html): exercícios sobre vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios. Pontuação: 2 pontos extras na A2. Data de entrega: 7/10/2024, juntamente com A2.
+
+- Aula 12: modelos lineares (posto completo): estimaçao em regresão linear simples e múltipla. Capítulos 6 e 7 do livro do Rencher.
+
+- Aula 13: Avaliação A2 estará disponível em 7/10/2024 no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Conteúdo da prova: vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios.
 
 
 ### Avaliação:
