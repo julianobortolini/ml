@@ -54,6 +54,12 @@ output: html_document
 
 - Aula 13: Avaliação A2 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Conteúdo da prova: vetores e matrizes aleatórios, distribuição normal multivariada e distribuição de formas lineares e quadráticas de vetores aleatórios. Data de entrega: 7/10/2024 até as 23h. **A prova será remota**.
 
+- Aula 14: um pouco mais sobre modelos lineares (posto completo): estimaçao em regresão linear simples e múltipla. Capítulos 6 e 7 do livro do Rencher.
+
+- Aula 15: modelos lineares (posto incompleto): capítulo 12 do livro do Rencher.
+
+- Aula 16: Avaliação A3: exercícios 6.1, 6.2, 6.3, 6.5, 6.6, 6.10, 6.14 (a), 7.1, 7.11, 7.53 (a), 7.53 (d), 7.54 (a), 7.54 (c), 7.55 (a) e 7.55 (c), do livro Linear Models in Statistics, do Rencher. Data de entrega: 28/10/2024 até as 23:59 no AVA.
+
 
 ### Avaliação:
 
