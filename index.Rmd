@@ -17,6 +17,7 @@ output: html_document
 - Prova 1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 19/8/2024. **A prova será remota**.
 - Prova 2 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 7/10/2024 até às 23h. **A prova será remota**.
 - Prova 3 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 28/10/2024 até às 23:59. **A prova será remota**.
+- **Notas e frequências disponíveis no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas).**
 
 ### Ementa:
 
