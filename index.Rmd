@@ -13,7 +13,7 @@ output: html_document
 ### Avisos:
 - Última atualização do site às **`r format(Sys.time(), "%H:%M", tz='America/Cuiaba')`** do dia **`r format(Sys.time(), "%d/%m/%Y")`**.
 - Monitores: Aline e Marcos
-- [Whatsapp da disciplina](https://chat.whatsapp.com/GgdG61qLafrJJxNarlwvOF)
+- [Whatsapp da disciplina]()
 - Prova 1 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 19/8/2024. **A prova será remota**.
 - Prova 2 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 7/10/2024 até às 23h. **A prova será remota**.
 - Prova 3 disponível no [portal acadêmico](https://sistemas.ufmt.br/ufmt.portalsistemas). Data de entrega: 28/10/2024 até às 23:59. **A prova será remota**.
